@@ -103,7 +103,7 @@ transition: fade
 
 <div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**7.** What To Do Next
+**7.** Content Mindset
 
 </div>
 
@@ -828,7 +828,7 @@ What Techniques I Used in This Speech
 
 <div class="text-xl opacity-70 mt-4">
 
-6 Techniques
+5 Techniques
 
 </div>
 
@@ -869,7 +869,7 @@ transition: fade
 
 <div v-click class="p-1 text-xl rounded-lg bg-white bg-opacity-5">
 
-**5.** 🎯 Promise payoff
+**5.** 🎯 Promise of a payoff
 
 </div>
 
@@ -887,7 +887,7 @@ class: text-center
 
 <div class="text-4xl font-bold mt-4">
 
-What To Do Next
+Content Mindset
 
 </div>
 
@@ -901,9 +901,9 @@ What To Do Next
 transition: fade
 ---
 
-<div class="text-sm opacity-50 mb-2">What To Do Next, 6 Action Steps</div>
+<div class="text-sm opacity-50 mb-2">Content Mindset, 6 Action Steps</div>
 
-# What To Do Next
+# Content Mindset
 
 <div class="mt-6 space-y-3">
 
@@ -921,7 +921,7 @@ transition: fade
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**3.** 🎯 Use content as driving factor to reach your goal
+**3.** 🎯 Use content to motivate you to reach your goal
 
 </div>
 
