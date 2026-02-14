@@ -10,7 +10,7 @@ drawings:
 ---
 
 
-<div class="abs-bl mb-34 ml-12 text-left text-sm opacity-60 text-white">
+<div class="abs-bl mb-40 ml-12 text-left text-lg opacity-100 text-white">
   Keynote Presentation - Swikar Sharma
 </div>
 
@@ -22,7 +22,7 @@ class: text-center
 
 # Quick Question
 
-<div v-click class="text-4xl mt-10 font-bold text-amber-400">
+<div v-click class="text-4xl mt-10 font-bold text-amber-500">
 
 Q1. How many content creators are here? ✋
 
@@ -48,7 +48,7 @@ class: text-center
 
 # Another Question
 
-<div v-click class="text-4xl mt-10 font-bold text-amber-400">
+<div v-click class="text-4xl mt-10 font-bold text-amber-500">
 
 Q2. How many of you scroll reels? 📱
 
@@ -78,7 +78,7 @@ transition: fade
 
 <div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**3.** Content Framework
+**3.** Content Structure
 
 </div>
 
@@ -138,51 +138,51 @@ Why Make Content?
 transition: fade
 ---
 
-<div class="text-sm opacity-50 mb-2">Why Make Content? — 7 Reasons</div>
+<div class="text-sm opacity-50 mb-2">Why Make Content?, 7 Reasons</div>
 
-# 1. Why Make Content?
+# 1. Why Make Content? 7 Reasons
 
 <div class="mt-6 text-xl space-y-4">
 
 <div v-click>
 
-### 1.1 Too many scrollers, too less creators
+### 1. Too many scrollers, too less creators
 
 </div>
 
 <div v-click>
 
-### 1.2 Lack of good quality content
+### 2. Lack of good quality content
 
 </div>
 
 <div v-click>
 
-### 1.3 Land assets analogy to content
+### 3. Content is our generation's asset
 
 </div>
 
 <div v-click>
 
-### 1.4 Everyone is media
+### 4. Everyone is media
 
 </div>
 
 <div v-click>
 
-### 1.5 Personal brand power
+### 5. Personal brand (Oppurtunity, Credibility, Visibility)
 
 </div>
 
 <div v-click>
 
-### 1.6 Creator economy growth data
+### 6. $200 billion(2026) -> $1 trillion economy by 2033
 
 </div>
 
 <div v-click>
 
-### 1.7 Monetization myth and opportunity
+### 7. Monetization myth and opportunity
 
 </div>
 
@@ -216,7 +216,6 @@ transition: fade
 
 # 2.1 Content Types
 
-<div class="text-xl font-semibold mb-2 opacity-70">6 types</div>
 
 <div class="grid grid-cols-2 gap-x-10 gap-y-2 mt-6">
 
@@ -396,7 +395,7 @@ class: text-center
 
 <div class="text-4xl font-bold mt-4">
 
-Content Framework
+Content Structure
 
 </div>
 
@@ -410,47 +409,47 @@ Content Framework
 transition: fade
 ---
 
-<div class="text-sm opacity-50 mb-2">Content Framework</div>
+<div class="text-sm opacity-50 mb-2">Content Structure</div>
 
-# 3.1 Simple Effective Content Framework?
+# 3.1 How? Use this framework
 
 <div class="text-xl font-semibold mb-2 opacity-70">6-step basic framework</div>
 
 <div class="mt-4 space-y-2">
 
-<div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-2xl">
+<div v-click class="pl-2 rounded-lg bg-white bg-opacity-5 text-2xl">
 
-**1.** 🪝 Hook
+**1.** 🪝 Hook (Verbal, Textual and Visual)
 
 </div>
 
-<div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-2xl">
+<div v-click class="pl-2 rounded-lg bg-white bg-opacity-5 text-2xl">
 
 **2.** ⚠️ State the Problem
 
 </div>
 
-<div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-2xl">
+<div v-click class="pl-2 rounded-lg bg-white bg-opacity-5 text-2xl">
 
 **3.** 💬 Claim to solve problem
 
 </div>
 
-<div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-2xl">
+<div v-click class="pl-2 rounded-lg bg-white bg-opacity-5 text-2xl">
 
-**4.** ❓ Problem description
-
-</div>
-
-<div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-2xl">
-
-**5.** ✅ Solution
+**4.** ❓ Describe the problem
 
 </div>
 
-<div v-click class="p-2 rounded-lg bg-white bg-opacity-5 text-2xl">
+<div v-click class="pl-2 rounded-lg bg-white bg-opacity-5 text-2xl">
 
-**6.** 📣 CTA
+**5.** ✅ Provide Solution
+
+</div>
+
+<div v-click class="pl-2 rounded-lg bg-white bg-opacity-5 text-2xl">
+
+**6.** 📣 Ask in return
 
 </div>
 
@@ -460,9 +459,9 @@ transition: fade
 transition: fade
 ---
 
-<div class="text-sm opacity-50 mb-2">Content Framework</div>
+<div class="text-sm opacity-50 mb-2">Content Structure</div>
 
-# 3.2 What to Hook?
+# 3.2 Why Hook at first?
 
 <div v-click class="mt-10 text-2xl text-center">
 
@@ -480,11 +479,11 @@ Hook their curiosity, their emotion, or their self-interest
 transition: fade
 ---
 
-<div class="text-sm opacity-50 mb-2">Content Framework</div>
+<div class="text-sm opacity-50 mb-2">Content Structure</div>
 
 # 3.3 Most Common Yet Effective Hooks
 
-<div class="text-xl font-semibold mb-2 opacity-70">3 hooks that always work</div>
+<div class="text-xl font-semibold mb-2 opacity-70">2 hooks that always work</div>
 
 <div class="mt-8 space-y-6">
 
@@ -492,17 +491,10 @@ transition: fade
 
 ### ✅ Checklist / Progress Bar Effect
 
-Always works — people love tracking completion
+Always works, people love tracking completion
 
 </div>
 
-<div v-click class="pl-4 rounded-xl bg-white bg-opacity-5">
-
-### 🎯 Promise Payoff at the End
-
-Scoring a goal, completing a task, best comedy scene
-
-</div>
 
 <div v-click class="pl-4 rounded-xl bg-white bg-opacity-5">
 
@@ -542,12 +534,6 @@ transition: fade
 
 </div>
 
-<div v-click class="mt-6 text-xl opacity-80">
-
-Don't perform. Just have a conversation with the camera.
-
-</div>
-
 ---
 transition: fade
 ---
@@ -560,11 +546,11 @@ transition: fade
 
 <div v-click class="text-2xl">
 
-### 🔍 Optimize everything for discoverability
+### 🔍 Optimize everything for searching
 
 </div>
 
-<div v-click class="pl-4 rounded-xl bg-red-500 bg-opacity-10 text-xl">
+<div v-click class="p-4 rounded-xl bg-red-500 bg-opacity-10 text-xl">
 
 ### 🚫 No stupid hashtags like #viral and #fyp
 
@@ -588,15 +574,11 @@ transition: fade
 
 ### 🤖 Scroll-stopping techniques
 
-Use AI to brainstorm attention-grabbing hooks
-
 </div>
 
 <div v-click class="text-2xl">
 
 ### 📝 Storytelling techniques
-
-Let AI help structure your narratives
 
 </div>
 
@@ -681,7 +663,7 @@ Your username IS your brand identity
 
 <div v-click class="pl-4 rounded-xl bg-white bg-opacity-5 text-2xl">
 
-### 💡 KISS — Keep It Simple Stupid
+### 💡 KISS, Keep It Simple Stupid
 
 Easy to remember, easy to search
 
@@ -723,7 +705,7 @@ transition: fade
 
 ### 🏆 Boastful or interesting
 
-Make it stand out — achievements, unique angle, or a bold claim
+Make it stand out, achievements, unique angle, or a bold claim
 
 </div>
 
@@ -783,7 +765,7 @@ transition: fade
 
 <div class="text-sm opacity-50 mb-2">What If We Don't Have Skills?</div>
 
-# 7.1 Record and Post Anything
+# 7.1 Record and Post, Stop Thinking
 
 <div class="mt-8 space-y-6">
 
@@ -856,48 +838,42 @@ transition: fade
 
 <div class="text-sm opacity-50 mb-2">What Techniques I Used in This Speech</div>
 
-# Techniques Used in This Speech
+# 5 Techniques Used in This Speech
 
 <div class="mt-4 grid grid-cols-2 gap-x-10 gap-y-3">
 
 <div v-click class="p-1 text-xl rounded-lg bg-white bg-opacity-5">
 
-**8.1** ✅ Checklist effect
+**1.** ✅ Checklist effect
 
 </div>
 
 <div v-click class="p-1 text-xl rounded-lg bg-white bg-opacity-5">
 
-**8.2** ⚡ Contrast creators vs scrollers
+**2.** ⚡ Contrast creators vs scrollers
 
 </div>
 
 <div v-click class="p-1 text-xl rounded-lg bg-white bg-opacity-5">
 
-**8.3** 🏠 Analogy (land asset analogy)
+**3.** 🏠 Analogy (land asset analogy)
 
 </div>
 
 
 <div v-click class="p-1 text-xl rounded-lg bg-white bg-opacity-5">
 
-**8.4** ❓ Asked questions
+**4.** ❓ Asked questions
 
 </div>
 
 <div v-click class="p-1 text-xl rounded-lg bg-white bg-opacity-5">
 
-**8.5** 🎯 Promise payoff
+**5.** 🎯 Promise payoff
 
 </div>
 
 
-
-<div v-click class="pl-3 text-xl rounded-lg bg-white bg-opacity-5">
-
-**8.6** 🎯 Clear action steps
-
-</div>
 
 </div>
 
@@ -925,7 +901,7 @@ What To Do Next
 transition: fade
 ---
 
-<div class="text-sm opacity-50 mb-2">What To Do Next — 6 Action Steps</div>
+<div class="text-sm opacity-50 mb-2">What To Do Next, 6 Action Steps</div>
 
 # What To Do Next
 
@@ -933,37 +909,37 @@ transition: fade
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**9.1** 🚀 Start today
+**1.** 🚀 Start today
 
 </div>
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**9.2** 📝 Post about what you like or what you are learning
+**2.** 📝 Post about what you like or what you are learning
 
 </div>
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**9.3** 🎯 Use content as driving factor to reach your goal
+**3.** 🎯 Use content as driving factor to reach your goal
 
 </div>
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**9.4** 🛑 Stay away from controversy and hate speech
+**4.** 🛑 Stay away from controversy and hate speech
 
 </div>
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**9.5** ✊ Follow the truth
+**5.** ✊ Follow the truth
 
 </div>
 
 <div v-click class="pl-3 rounded-lg bg-white bg-opacity-5 text-xl">
 
-**9.6** 🔑 Consistency is the key in content
+**6.** 🔑 Consistency is the key in content
 
 </div>
 
@@ -996,7 +972,7 @@ Instagram: swikar.codes
 
 </div>
 
-<div v-click class="mt-10 text-3xl font-bold text-amber-400">
+<div v-click class="mt-10 text-3xl font-bold text-amber-500">
 
 Thank You! 🙏
 
